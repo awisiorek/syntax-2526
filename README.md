@@ -14,7 +14,7 @@
 
 - Vorlesung: Di 10:15-11:45, Oettingenstr. 67 / L155
 - Übung: Mi 14:15-15:45, Oettingenstr. 67 / BU101
-- Tutorium: *folgt**
+- Tutorium: *folgt*
 
 ***Die Veranstaltung findet hybrid statt; der Zoom-Link wird per LSF-Rundmail und in Moodle mitgeteilt.***
 
@@ -88,7 +88,7 @@ https://moodle.lmu.de/course/view.php?id=42037
 
 | Datum  | Uhrzeit | Raum |
 | ------------- | ------------- | ------------- |
-|  *Do, 12.02.2026* | 14:00  | folgt |
+|  *Do, 12.02.2026* | 14:00  | *folgt* |
 
 
 
