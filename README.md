@@ -36,7 +36,7 @@ https://moodle.lmu.de/course/view.php?id=42037
 
 | Vorlesung |  Übung | Thema 
 | ------------- | ------------- | ------------- | 
-| Di, 14.10.25 | Mi 15.10.25 | 1. Einführung Syntax | 
+| Di, 14.10.25 | Mi 15.10.25 | 1. Syntax-Analyse und syntaktische Tests | 
 
 
 ### II. Konstituentenstruktur (2-4)
