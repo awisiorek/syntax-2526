@@ -16,7 +16,7 @@
 - Übung: Mi 14:15-15:45, Oettingenstr. 67 / BU101
 - Tutorium: *folgt*
 
-***Die Veranstaltung findet hybrid statt; der Zoom-Link wird per LSF-Rundmail und in Moodle mitgeteilt.***
+***Die Vorlesung findet hybrid statt (der Zoom-Link wird per LSF-Rundmail und in Moodle mitgeteilt), die Übung findet in Präsenz statt.***
 
 
 
