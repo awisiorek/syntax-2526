@@ -69,7 +69,7 @@ https://moodle.lmu.de/course/view.php?id=42037
 | Vorlesung |  Übung | Thema 
 | ------------- | ------------- | ------------- | 
 | Di, 16.12.25 | Mi 17.12.25 | 10. PCFGs und probabilistisches Parsing | 
-|  *(keine VL Di, 23.12.25)** |  - |  *(Weihnachtsferien)* | 
+|  *(keine VL Di, 23.12.25)* |  - |  *(Weihnachtsferien)* | 
 | *Feiertag (Di, 06.01.26)* | Mi 07.01.26 | *Zusatz-Vorlesung Feldermodell* | 
 | Di, 13.01.26 | Mi 14.01.26 | 11. Grammatikinduktion | 
 | Di, 20.01.26 | Mi 21.01.26 | 12. Partielles Parsing + *Probeklausur* | 
