@@ -89,7 +89,7 @@ https://moodle.lmu.de/course/view.php?id=42037
 
 | Datum  | Uhrzeit | Raum |
 | ------------- | ------------- | ------------- |
-|  *Do, 19.02.2026* | 14:00  | *folgt* |
+|  *Do, 19.02.2026* | 14:00  | BU101 |
 
 
 
